@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FLYExplore</string>
+    <string name="search_bar_placeholder">Insira o Aeroporto desejado</string>
+    <string name="depart">Embarque</string>
+    <string name="arrive">Desembarque</string>
+    <string name="flights_from">Voôs disponiveis %1$s</string>
+    <string name="favorite_routes">Rotas salvas</string>
+    <string name="clear_all">Limpar</string>
+    <string name="attention">Atenção</string>
+    <string name="confirmation_question">Você deseja mesmo excluír suas rotas?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+</resources>
