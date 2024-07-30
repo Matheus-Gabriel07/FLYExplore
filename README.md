@@ -1,19 +1,7 @@
-# FlightSearch
-FlightSearch is an easy-to-use application that grants users access to flight information. This app enables users to find suitable flight options by inputting search queries, providing them with flight recommendations sourced from a database. Users can explore available flights when selecting a specific airport and save them with a single click for future retrieval.
-
-## Features
-- **Explore Available Flights** - Upon selecting a specific airport, users can access a list of available flights.
-- **Storage** - Users can store their favorite flights in the database for future reference and retrieval.
+# FLYExplore
+O FLYExplore é um aplicativo fácil de usar que concede aos usuários acesso a informações de voos. Tendo ideia feita a partir do desafio final de [Persistência de Dados](https://developer.android.com/codelabs/basic-android-kotlin-compose-flight-search?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-6-pathway-3&hl=pt-br#0). Este aplicativo permite que os usuários encontrem opções de voos adequadas inserindo consultas de pesquisa, fornecendo recomendações de voos provenientes de um banco de dados. Os usuários podem explorar os voos disponíveis ao selecionar um aeroporto específico e salvá-los com um único clique para recuperação futura.
 
 ## Data Storage
-Application utilizes two key data storage mechanisms:
-- **Room Database** - Room is used to efficiently manage the storage of flight information. This database is the backbone of the app, facilitating the retrieval and storage of flight data.
-- **DataStore** - DataStore provides a reliable solution for saving and retrieving user preferences, including their input in the search bar.
-
-## Preview
-<p align="left">
-    <img src="1.png" alt="Main Page" width="220" height="460">&nbsp;&nbsp;
-    <img src="2.png" alt="Search Page" width="220" height="460">&nbsp;&nbsp;
-    <img src="3 1.png" alt="Results Page" width="220" height="460">&nbsp;&nbsp;
-    <img src="4.png" alt="Main Page After Saving Items" width="220" height="460">
-</p>
+O aplicativo utiliza dois mecanismos principais de armazenamento de dados:
+- **Room Database** - Room é usado para gerenciar com eficiência o armazenamento de informações de voo. Este banco de dados é a espinha dorsal do aplicativo, facilitando a recuperação e armazenamento de dados de voo.
+- **DataStore** - O DataStore fornece uma solução confiável para salvar e recuperar as preferências do usuário, incluindo suas entradas na barra de pesquisa.
